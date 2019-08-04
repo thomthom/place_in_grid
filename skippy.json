@@ -1,0 +1,19 @@
+{
+  "name": "Place In Grid",
+  "description": "",
+  "namespace": "TT::Plugins::PlaceInGrid",
+  "basename": "tt_placeingrid",
+  "author": "Unknown",
+  "copyright": "Copyright (c) 2019",
+  "license": "None",
+  "sources": [
+    "github.com",
+    "bitbucket.org"
+  ],
+  "libraries": [
+
+  ],
+  "modules": [
+
+  ]
+}
